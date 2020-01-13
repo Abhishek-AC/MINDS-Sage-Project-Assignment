@@ -9,6 +9,7 @@ To run the script and generate the CSV file, follow the following steps
 1. Create a virtual environment  
 2. pip install -r requirements.txt
 3. python scraper.py
+4. Output file "output.csv" gets generated in the same directory
 
 Clarifications:
 
